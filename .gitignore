@@ -1,0 +1,13 @@
+**/.vs
+**/jenkins/jenkins_home/*
+**/nginx/ssl/*
+**/bin
+**/obj
+**/.env
+**/sonar
+**/postgresql
+**/*.tfvars
+**/node_modules
+local
+**/.DS_Store
+**/.sonarqube
